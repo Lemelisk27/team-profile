@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Team Profile Generator - [Usage Video](https://watch.screencastify.com/v/k9JL045WBjcEKW6WaZo0)
 ## Description
 This is a Node.js application that will take information about employees on a software engineering team. It will then generate an HTML document that displays summaroed for each person.
   
